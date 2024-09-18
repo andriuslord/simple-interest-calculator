@@ -1,2 +1,2 @@
-# simple-interest-calculator
-final project Git IBM Full Stack Developer
+# Simple Interest Calculator
+This project contains a Bash script that calculates simple interest given the principal amount, rate of interest, and time.
